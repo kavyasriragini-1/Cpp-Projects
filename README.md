@@ -1,7 +1,7 @@
-#**Cpp-Projects**
+Cpp-Projects
 This repository contains my C++ projects and programming practice.
-This contains from basic to advanced projects.
-##**Projects**
+
+Projects
 1.Calculator:
 A simple calculator program written in C++ that performs:
   addition
@@ -9,8 +9,10 @@ A simple calculator program written in C++ that performs:
   multiplication
   division
   modulus
-##**Author**
+  
+Author
 Kavya Sri Ragini
-##**Goals**
+
+Goals
 Improve C++ programming skills
 Improve OOPs concept
